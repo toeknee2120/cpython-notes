@@ -24,7 +24,7 @@ resources at any point.
 * cpython-notes:
 	- This directory contains notes that I have compiled directly from wandering around the CPython codebase.
 * general-notes:
-	- This directory contains notes on the direction of the CPython guide, in collaboration with others (again, this converation can currently be tracked `here <https://github.com/pyladies/pyladies-maintainers/issues/6>`_)
+	- This directory contains notes on the direction of the CPython guide, in collaboration with others (again, this conversation can currently be tracked `here <https://github.com/pyladies/pyladies-maintainers/issues/6>`_)
 * meeting-notes:
 	- This directory contains notes from my meetings with other contributors, core devs, aspiring core devs, lovers of technical writing and open source, etc.
 * resource-notes:
